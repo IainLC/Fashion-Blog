@@ -11,9 +11,11 @@ App link: local only
 + include plenty of pictures, links, lists, and other HTML elements
 
 #Technology Summary / stack
-+JavaScript
+
++HTML
 
 #Functionality
+
 This is the very most basic HTML
 
 #Design
